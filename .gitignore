@@ -1,2 +1,5 @@
 # Project exclude paths
 /venv/
+
+# ignore pycharm setting
+.idea
